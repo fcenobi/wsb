@@ -1,0 +1,2 @@
+# wsb
+Windows sandbox configuration
